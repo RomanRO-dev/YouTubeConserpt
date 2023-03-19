@@ -1,7 +1,7 @@
-# YouTubeConserpt - учебний проект Glo Academy
-Проект виполнил: Романчук Роман
+# YouTubeConserpt - навчальний проєкт Glo Academy
+Проєкт виконав: Романчук Роман
 
-## Использованые технологии
+## Використані технології
 - HTML
 - CSS
 - NORMALIZE CSS
